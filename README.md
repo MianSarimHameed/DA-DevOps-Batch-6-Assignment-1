@@ -35,3 +35,11 @@ Continuous deployment is an excellent way to accelerate the feedback loop with y
 <br /><br />**Benefits:** <br />1. Agility <br />2. Elasticity <br />3. Cost Savings <br />4. Deploy Globally in Minutes<br />
 
 ---
+<br />
+
+:bulb: **Question No. 4: Difference between Git & GitHub** <br />
+| Git (SCM) | GitHub |
+| :--- | :--- |
+| Git is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows. | GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. |
+
+---

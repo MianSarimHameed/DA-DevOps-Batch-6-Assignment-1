@@ -27,3 +27,11 @@ In theory, with continuous delivery, you can decide to release daily, weekly, fo
 Continuous deployment is an excellent way to accelerate the feedback loop with your customers and take pressure off the team as there isn't a "release day" anymore. Developers can focus on building software, and they see their work go live minutes after they've finished working on it.<br />
 
 ---
+<br />
+
+:bulb: **Question No. 3: Benefits of Cloud Computing**<br />
+
+> Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS), Microsoft Azure Cloud, Google Cloud Platform (GCP).
+<br /><br />**Benefits:** <br />1. Agility <br />2. Elasticity <br />3. Cost Savings <br />4. Deploy Globally in Minutes<br />
+
+---

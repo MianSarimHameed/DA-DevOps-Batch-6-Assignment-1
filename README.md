@@ -43,3 +43,9 @@ Continuous deployment is an excellent way to accelerate the feedback loop with y
 | Git is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows. | GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. |
 
 ---
+<br />
+
+:bulb: **Question No. 5: Stages of Git**<br />
+> Here are the 3 stages of Git <br /><br /> 1. Working Directory </br>2. Staging Area <br />3. Git Directory (Repository) <br /><br /> Official Reference Link: [git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)<br /><br />![alt text](https://user-images.githubusercontent.com/101370133/179305867-8d838cd1-8af2-47b0-a566-a62971084f40.png "The Three States of Git")
+
+---

@@ -49,3 +49,14 @@ Continuous deployment is an excellent way to accelerate the feedback loop with y
 > Here are the 3 stages of Git <br /><br /> 1. Working Directory </br>2. Staging Area <br />3. Git Directory (Repository) <br /><br /> Official Reference Link: [git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)<br /><br />![alt text](https://user-images.githubusercontent.com/101370133/179305867-8d838cd1-8af2-47b0-a566-a62971084f40.png "The Three States of Git")
 
 ---
+<br />
+
+:bulb: **Question No. 6: All 3 methods of Git Reset**<br />
+>
+1. `git reset --mixed` **uncommit** changes, changes are left staged (index).<br/>
+2. `git reset --soft` (default): **uncommit** + **unstage** changes, changes are left in working tree<br />
+3. `git reset --hard` **uncommit** + **unstage** + **delete** changes, nothing left
+
+---
+
+Done :tada: , Thanks for reading. :relaxed:
